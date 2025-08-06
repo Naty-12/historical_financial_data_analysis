@@ -11,7 +11,7 @@ Guide Me in Finance (GMF) Investments is a forward-thinking financial advisory f
 ---
 
 ## 🗂️ Project Structure
-
+```
 📁 GMF-TimeSeries-Project/
 │
 ├── data/ # Raw and cleaned historical financial data
@@ -22,7 +22,8 @@ Guide Me in Finance (GMF) Investments is a forward-thinking financial advisory f
 ├── plots/ # Generated plots from EDA and risk analysis
 ├── README.md
 └── requirements.txt
----
+```
+
 
 ## ✅ Task 1: Data Preprocessing & Exploration
 
@@ -89,13 +90,6 @@ Clean, explore, and understand the historical financial data for three assets:
 | Interim Submission       | August 10, 2025    |
 | Final Submission         | August 12, 2025    |
 
----
-
-## 🧑‍🏫 Team & Mentors
-
-**Financial Analysts:** You  
-**Tutors:** Mahlet, Rediet, Kerod, Rehmet  
-**Organization:** GMF Investments
 
 ---
 
