@@ -1,0 +1,18 @@
+# Core libraries
+pandas==2.2.2
+numpy==1.26.4
+
+# Data collection
+yfinance==0.2.38
+
+# Visualization
+matplotlib==3.8.4
+seaborn==0.13.2
+
+# Time series analysis
+statsmodels==0.14.1
+scipy==1.13.0
+
+# Jupyter support
+jupyter==1.0.0
+ipykernel==6.29.4
